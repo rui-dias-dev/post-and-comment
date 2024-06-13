@@ -1,4 +1,4 @@
-import React, { FC } from 'react'
+import { FC } from 'react'
 import { UserI } from '../@types'
 import Avatar from './ui/Avatar'
 
